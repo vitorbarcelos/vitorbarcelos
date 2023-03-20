@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vibx27&locale=pt_BR)]
+[GitHub Streak](https://streak-stats.demolab.com?user=vibx27&locale=pt_BR)
 
 <!--
 **vibx27/vibx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
