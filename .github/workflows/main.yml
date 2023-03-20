@@ -22,13 +22,6 @@ jobs:
         id: dailydev
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          
-        # Push changes
-      - uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
