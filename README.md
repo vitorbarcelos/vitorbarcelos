@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[GitHub Streak](https://streak-stats.demolab.com?user=vibx27&locale=pt_BR)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vibx27&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/vibx27/vibx27/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **vibx27/vibx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
