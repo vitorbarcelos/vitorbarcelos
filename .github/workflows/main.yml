@@ -16,6 +16,4 @@ jobs:
           github_user_name: vibx27
           svg_out_path: dist/github-contribution-grid-snake.svg
           
-      - uses: dailydotdev/action-devcard@2.0.6
-        with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+
