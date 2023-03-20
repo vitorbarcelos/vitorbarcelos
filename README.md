@@ -2,7 +2,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vibx27&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/vibx27/vibx27/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vibx27/vibx27/blob/main/github-snake.svg)
+
+<img src="https://github.com/vibx27/vibx27/blob/main/devcard.svg" width="350" alt="Vitor Barcelos Dev Card"/>
 
 <!--
 **vibx27/vibx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
