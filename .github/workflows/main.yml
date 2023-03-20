@@ -11,11 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v2
         id: snake-gif
         with:
           github_user_name: vibx27
-          svg_out_path: github-snake.svg
+          outputs: |
+            github-snake.svg
 
       - uses: dailydotdev/action-devcard@2.0.4
         id: dailydev
